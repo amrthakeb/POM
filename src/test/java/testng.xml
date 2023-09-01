@@ -1,0 +1,12 @@
+<suite name="MyTestSuite">
+
+    <test name="makeAppoint.Tests">
+
+
+
+    <classes>
+        <class name="testPages.testMakeAppointment" />
+    </classes>
+</test>
+    <!-- Add more test classes and configurations as needed -->
+</suite>
